@@ -16,5 +16,8 @@ package-lock.json
 vendor/
 .bundle/
 
-# Apple
+# Ingore Apple configurations
 .DS_Store
+
+# Ignore saved temporary files
+files/math240/save_tmp/
